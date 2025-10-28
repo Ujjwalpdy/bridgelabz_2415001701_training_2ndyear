@@ -1,0 +1,7 @@
+package library.transactions;
+
+public class Transaction {
+    public void issueBook() {
+        System.out.println("Book 'Java Programming' issued to Rahul.");
+    }
+}
