@@ -1,0 +1,1 @@
+Place your MySQL Connector/J jar here (e.g. mysql-connector-java-8.0.x.jar).
